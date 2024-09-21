@@ -34,7 +34,7 @@ And that's it, that's what's lacking. Critical Thinking.
 
 The ability to comprehend any and all information is, in my opinion, completely determined by whether you can ask the right questions. Here, right questions implies questions that allow you to comprehend. It's recursive.
 
-![Polymath Diagram](/doctord00m.github.io/content/posts/polymath1.png)
+![Polymath Diagram](./polymath1.png)
 
 This is, inherently, a VERY complicated process. But, I believe this is the ideal way to perform scientific inquiry. 
 Let's divide and conquer the above graph to get  a clear idea.
