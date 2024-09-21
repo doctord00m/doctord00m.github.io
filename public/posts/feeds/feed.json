@@ -1,0 +1,24 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Posts - corpus principiorum et notitiarum.",
+  "home_page_url": "//localhost:1313/?utm_source=json_feed",
+  
+  "description": "Welcome to the curated repository of ARUSHIK,  a discerning individual who prefers the veil of anonymity,  yet invites the astute observer to discern the truth beneath.",
+  "icon": "//localhost:1313/img/open-graph-logo_hu1096175607311285209.png",
+  "favicon": "//localhost:1313/img/open-graph-logo_hu1096175607311285209.png",
+  "authors": [
+    {
+      "name": "ARUSHIK"
+    }
+  ],
+  "language" : "en",
+  "items": [
+    {
+      "id": "404733a4-5dda-552c-d924-dc51efb9e6db",
+      "url": "//localhost:1313/posts/polymath/?utm_source=json_feed",
+      "title": "Polymath",
+      "summary": "Becoming a polymath is easy, actually. For the longest time, I\u0026rsquo;ve caught myself wondering - \u0026ldquo;Shouldn\u0026rsquo;t it be possible to become specialised in any and every skill there is available since the advent of the search engine?\u0026rdquo; The search engine is the ultimate querying machine, with the expanse of knowledge covering some of the best minds in the world, all provided to you with the only pre-requisite of:\nHaving an internet connection A personal computer Yet, interestingly enough, I believe from my personal observations, that the exact opposite scenario is taking place, wherein we have people that have access to both the aforementioned prerequisite tech, but lack any and all ability to capture and transfer any information to any domain. Let me expand.",
+      "date_published": "2024-09-21T17:41:43+05:30"
+    }
+  ]
+}

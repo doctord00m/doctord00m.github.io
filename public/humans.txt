@@ -1,0 +1,16 @@
+
+    /* TEAM */
+
+    Author: ARUSHIK
+    Contact: otspiritz04@gmail.com
+    GitHub: @github.com/doctord00m
+    From: India
+
+    /* SITE */
+
+    Last update: 2024/09/21
+    Language: English
+    Doctype: HTML5
+    Standards: HTML5, CSS3, Open Graph protocol, Schema.org
+    Components: Hugo, Ed Theme, Lunr.js
+    Hugo version: 0.134.3

@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest",
+  "id": "c610c95a-59eb-57cc-69e9-b4b341a49050",
+  "name": "corpus principiorum et notitiarum.",
+  "short_name": "A body of principles and information",
+  "description": "Welcome to the curated repository of ARUSHIK,  a discerning individual who prefers the veil of anonymity,  yet invites the astute observer to discern the truth beneath.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "/index.html?source=pwa",
+  "display": "fullscreen",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "orientation": "natural",
+  "shortcuts": [  
+    {
+      "name": "Home",
+      "short_name" : "home",
+      "url": "/"
+    } ,
+    {
+      "name": "About",
+      "short_name" : "about",
+      "url": "/about/"
+    } ,
+    {
+      "name": "Posts",
+      "short_name" : "posts",
+      "url": "/posts/"
+    } ,
+    {
+      "name": "Search",
+      "short_name" : "search",
+      "url": "/search/"
+    } ,
+    {
+      "name": "Contact",
+      "short_name" : "contact",
+      "url": "/contact/"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xml:lang="en"
+    xml:base="//localhost:1313/">
+    <channel>
+        <title>Posts - corpus principiorum et notitiarum.</title>
+        <link>//localhost:1313/posts/</link>
+        <description>Welcome to the curated repository of ARUSHIK,  a discerning individual who prefers the veil of anonymity,  yet invites the astute observer to discern the truth …</description>
+        <generator>Hugo 0.134.3</generator>
+        <language>en</language>
+        <copyright>Copyright © 2019-2024 Serghei Iakovlev</copyright>
+        <lastBuildDate>Sat, 21 Sep 2024 17:41:43 +0530</lastBuildDate>
+        <atom:link href="/posts/" rel="alternate" type="text/html" title="html" />
+        <atom:link href="/posts/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="atom" />
+        <atom:link href="/posts/feeds/feed.rss.xml" rel="self" type="text/xml" title="feed" />
+        <atom:link href="/posts/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+        <item>
+            <title>Polymath</title>
+            <link>//localhost:1313/posts/polymath/?utm_source=rss_feed</link>
+            <pubDate>Sat, 21 Sep 2024 17:41:43 +0530</pubDate>
+            <author>otspiritz04@gmail.com (ARUSHIK)</author>
+            <category>posts</category>
+            <guid isPermaLink="false">e14437ee2344a329d96c6f5c8cf21502</guid>
+            <description>&lt;h1 id=&#34;becoming-a-polymath-is-easy-actually&#34;&gt;Becoming a polymath is easy, actually.&lt;/h1&gt;&#xA;&lt;p&gt;For the longest time, I&amp;rsquo;ve caught myself wondering - &amp;ldquo;Shouldn&amp;rsquo;t it be possible to become specialised in any and every skill there is available since the advent of the search engine?&amp;rdquo;&#xA;The search engine is the ultimate querying machine, with the expanse of knowledge covering some of the best minds in  the world, all provided to you with the only pre-requisite of:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Having an internet connection&lt;/li&gt;&#xA;&lt;li&gt;A personal computer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Yet, interestingly enough, I believe from my personal observations, that the exact opposite scenario is taking place, wherein we have people that have access to both the aforementioned prerequisite tech, but lack any and all ability to capture and transfer any information to any domain. Let me expand.&lt;/p&gt;</description>
+        </item>
+    
+    </channel>
+</rss>

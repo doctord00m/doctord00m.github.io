@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="//localhost:1313/">
+    <title>Posts - corpus principiorum et notitiarum.</title>
+    <subtitle type="html"><![CDATA[Welcome to the curated repository of ARUSHIK,  a discerning individual who prefers the veil of anonymity,  yet invites the astute observer to discern the truth beneath.]]></subtitle>
+    <link href="/posts/" rel="alternate" type="text/html" title="html" />
+    <link href="/posts/feeds/feed.atom.xml" rel="self" type="text/xml" title="atom" />
+    <link href="/posts/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="feed" />
+    <link href="/posts/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+    <icon>//localhost:1313/img/open-graph-logo_hu1096175607311285209.png</icon>
+    <logo>//localhost:1313/img/open-graph-logo_hu1096175607311285209.png</logo>
+    <author>
+        <name>ARUSHIK</name>
+        <email>otspiritz04@gmail.com</email>
+    </author>
+    <rights>Copyright © 2019-2024 Serghei Iakovlev</rights>
+    <generator uri="https://gohugo.io" version="0.134.3">Hugo</generator>
+    <updated>2024-09-21T17:41:43+05:30</updated>
+    <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
+    <entry>
+        
+        <category term="posts" />
+        
+        <link rel="alternate" type="type/html" href="//localhost:1313/posts/polymath/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Polymath]]></title>
+        
+        
+        
+        <published>2024-09-21T17:41:43+05:30</published>
+        <updated>2024-09-21T17:41:43+05:30</updated>
+        <id>urn:uuid:404733a4-5dda-552c-d924-dc51efb9e6db</id>
+        
+        <summary type="html"><![CDATA[<h1 id="becoming-a-polymath-is-easy-actually">Becoming a polymath is easy, actually.</h1>
+<p>For the longest time, I&rsquo;ve caught myself wondering - &ldquo;Shouldn&rsquo;t it be possible to become specialised in any and every skill there is available since the advent of the search engine?&rdquo;
+The search engine is the ultimate querying machine, with the expanse of knowledge covering some of the best minds in  the world, all provided to you with the only pre-requisite of:</p>
+<ul>
+<li>Having an internet connection</li>
+<li>A personal computer</li>
+</ul>
+<p>Yet, interestingly enough, I believe from my personal observations, that the exact opposite scenario is taking place, wherein we have people that have access to both the aforementioned prerequisite tech, but lack any and all ability to capture and transfer any information to any domain. Let me expand.</p>]]></summary>
+    </entry>
+</feed>
