@@ -48,5 +48,3 @@ You can do it though, and here comes two very important factors that influence t
 - Optimism
 
 I personally struggled with both, and I believe many people do, there's a ceratin naivety required to understand the unknown, the belief that it is indeed comprehensible will completely eradicate any existing conflicting and confounding thought processes that perhaps, this endeavour was indeed futile and the result doesn't exist.
-
-yep
