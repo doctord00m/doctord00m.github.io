@@ -12,9 +12,9 @@ In this space, I, ARUSHIK, invite you to join me on a journey of exploration and
 **What to Expect:**
 
 • Insights into the hidden patterns and connections that govern our daily lives  
-• Explorations of the fascinating and the unknown, from the intricacies of science to the latest technological advancements
-• Musings on the intersection of innovation and imagination
-• A glimpse into the inner workings of my curious mind, as I grapple with the big questions and the small wonders of our world
+• Explorations of the fascinating and the unknown, from the intricacies of science to the latest technological advancements  
+• Musings on the intersection of innovation and imagination  
+• A glimpse into the inner workings of my curious mind, as I grapple with the big questions and the small wonders of our world  
 
 **Join the Conversation**
 
