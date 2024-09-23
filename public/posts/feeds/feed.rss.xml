@@ -16,11 +16,25 @@
         <generator>Hugo 0.134.3</generator>
         <language>en</language>
         <copyright>Copyright © 2019-2024 Serghei Iakovlev</copyright>
-        <lastBuildDate>Sat, 21 Sep 2024 17:41:43 +0530</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 15:48:55 +0530</lastBuildDate>
         <atom:link href="/posts/" rel="alternate" type="text/html" title="html" />
         <atom:link href="/posts/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="atom" />
         <atom:link href="/posts/feeds/feed.rss.xml" rel="self" type="text/xml" title="feed" />
         <atom:link href="/posts/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+        <item>
+            <title>Management</title>
+            <link>/posts/management/?utm_source=rss_feed</link>
+            <pubDate>Mon, 23 Sep 2024 15:48:55 +0530</pubDate>
+            <author>otspiritz04@gmail.com (ARUSHIK)</author>
+            <category>posts</category>
+            <category>Management</category>
+            <category>University</category>
+            <category>Education</category>
+            <category>Examination</category>
+            <guid isPermaLink="false">75b8e71ab2ee9e999aaf27ba4a79fafa</guid>
+            <description>&lt;h1 id=&#34;ah-yes-management&#34;&gt;Ah, yes, Management.&lt;/h1&gt;&#xA;&lt;p&gt;The epitome of corporate circle-jerking and unnecessary corporate bureaucracy, nevertheless the most important part of any corporate structure or enterprise. And as a result of it&amp;rsquo;s significance, it taught in some form or sense in university.&lt;/p&gt;&#xA;&lt;p&gt;I just finished my Mid-Semester examination for the course - &amp;ldquo;Essentials of Management&amp;rdquo;. It was alright, except for one question that completely threw me on a curveball.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;alt text&#34; src=&#34;https://static.studyusa.com/blog/COLOR-THROW-A-CURVE-StudyUSA.jpg?format=webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The question, as far as I can recall goes something like this:&lt;/p&gt;</description>
+        </item>
+    
         <item>
             <title>Polymath</title>
             <link>/posts/polymath/?utm_source=rss_feed</link>

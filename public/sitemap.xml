@@ -2,21 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>/</loc>
-        <lastmod>2024-09-21T17:41:43+05:30</lastmod>
+        <loc>/tags/education/</loc>
+        <lastmod>2024-09-23T15:48:55+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/posts/polymath/</loc>
-        <lastmod>2024-09-21T17:41:43+05:30</lastmod>
+        <loc>/tags/examination/</loc>
+        <lastmod>2024-09-23T15:48:55+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/</loc>
+        <lastmod>2024-09-23T15:48:55+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/management/</loc>
+        <lastmod>2024-09-23T15:48:55+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/posts/management/</loc>
+        <lastmod>2024-09-23T15:48:55+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/posts/</loc>
+        <lastmod>2024-09-23T15:48:55+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/</loc>
+        <lastmod>2024-09-23T15:48:55+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/tags/university/</loc>
+        <lastmod>2024-09-23T15:48:55+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>/posts/polymath/</loc>
         <lastmod>2024-09-21T17:41:43+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
@@ -42,12 +84,6 @@
     
     <url>
         <loc>/search/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
