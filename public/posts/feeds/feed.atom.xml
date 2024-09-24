@@ -14,8 +14,47 @@
     </author>
     <rights>Copyright © 2019-2024 Serghei Iakovlev</rights>
     <generator uri="https://gohugo.io" version="0.134.3">Hugo</generator>
-    <updated>2024-09-23T15:48:55+05:30</updated>
+    <updated>2024-09-24T22:02:19+05:30</updated>
     <id>urn:uuid:42099b4a-f021-553f-d98f-e056c2568d7c</id>
+    <entry>
+        
+        <category term="posts" />
+        
+            
+            <category term="Life" x="y" />
+            
+        
+            
+            <category term="Productivity" x="y" />
+            
+        
+            
+            <category term="Work" x="y" />
+            
+        
+            
+            <category term="Meaning" x="y" />
+            
+        
+            
+            <category term="Education" x="y" />
+            
+        
+        <link rel="alternate" type="type/html" href="/posts/distraction/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Distraction]]></title>
+        
+        
+        
+            <link href="/posts/management/?utm_source=atom_feed" rel="related" type="text/html" title="Management" />
+        
+        <published>2024-09-24T22:02:19+05:30</published>
+        <updated>2024-09-24T22:02:19+05:30</updated>
+        <id>urn:uuid:077fb29c-083e-5119-c93e-1c3fdadce4c7</id>
+        
+        <summary type="html"><![CDATA[<h1 id="distractions">Distractions.</h1>
+<p>Cut the distractions, or so I yearn to do, and yet I fail miserably, only to get  distracted by something else and well, repeat this again.</p>
+<p>I just finished my Cryptography test, absolutely nailed it, no regrets whatsoever. Finished the exam in half the time required. To be fair though, the questions weren&rsquo;t inherently difficult to begin with, and I was in reality just solving based on pure muscle memory.</p>]]></summary>
+    </entry>
     <entry>
         
         <category term="posts" />
@@ -40,6 +79,8 @@
         <title type="html"><![CDATA[Management]]></title>
         
         
+        
+            <link href="/posts/distraction/?utm_source=atom_feed" rel="related" type="text/html" title="Distraction" />
         
         <published>2024-09-23T15:48:55+05:30</published>
         <updated>2024-09-23T15:48:55+05:30</updated>

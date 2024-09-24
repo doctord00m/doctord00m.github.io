@@ -16,7 +16,7 @@
         <generator>Hugo 0.134.3</generator>
         <language>en</language>
         <copyright>Copyright © 2019-2024 Serghei Iakovlev</copyright>
-        <lastBuildDate>Mon, 23 Sep 2024 15:48:55 +0530</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 22:02:19 +0530</lastBuildDate>
         <atom:link href="/" rel="alternate" type="text/html" title="html" />
         <atom:link href="/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="atom" />
         <atom:link href="/feeds/feed.rss.xml" rel="self" type="text/xml" title="feed" />
@@ -24,6 +24,21 @@
         <atom:link href="/index.json" rel="alternate" type="application/json" title="json" />
         <atom:link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="manifest" />
         <atom:link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
+        <item>
+            <title>Distraction</title>
+            <link>/posts/distraction/?utm_source=rss_feed</link>
+            <pubDate>Tue, 24 Sep 2024 22:02:19 +0530</pubDate>
+            <author>otspiritz04@gmail.com (ARUSHIK)</author>
+            <category>posts</category>
+            <category>Life</category>
+            <category>Productivity</category>
+            <category>Work</category>
+            <category>Meaning</category>
+            <category>Education</category>
+            <guid isPermaLink="false">71463d9268e0526e3840d7a5dd7221e1</guid>
+            <description>&lt;h1 id=&#34;distractions&#34;&gt;Distractions.&lt;/h1&gt;&#xA;&lt;p&gt;Cut the distractions, or so I yearn to do, and yet I fail miserably, only to get  distracted by something else and well, repeat this again.&lt;/p&gt;&#xA;&lt;p&gt;I just finished my Cryptography test, absolutely nailed it, no regrets whatsoever. Finished the exam in half the time required. To be fair though, the questions weren&amp;rsquo;t inherently difficult to begin with, and I was in reality just solving based on pure muscle memory.&lt;/p&gt;</description>
+        </item>
+    
         <item>
             <title>Management</title>
             <link>/posts/management/?utm_source=rss_feed</link>
