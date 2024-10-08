@@ -2,123 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>/posts/distraction/</loc>
+        <loc>//localhost:1313/</loc>
+        <lastmod>2024-10-08T22:09:18+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>//localhost:1313/synthesis/mandelbrot/</loc>
+        <lastmod>2024-10-08T22:09:18+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>//localhost:1313/synthesis/</loc>
+        <lastmod>2024-10-08T22:09:18+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>//localhost:1313/synthesis/game_of_life/</loc>
+        <lastmod>2024-10-08T20:08:38+05:30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>//localhost:1313/posts/distraction/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/tags/education/</loc>
+        <loc>//localhost:1313/tags/education/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/</loc>
+        <loc>//localhost:1313/tags/life/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/tags/life/</loc>
+        <loc>//localhost:1313/tags/meaning/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/tags/meaning/</loc>
+        <loc>//localhost:1313/posts/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/posts/</loc>
+        <loc>//localhost:1313/tags/productivity/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/tags/productivity/</loc>
+        <loc>//localhost:1313/tags/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/tags/</loc>
+        <loc>//localhost:1313/tags/work/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/tags/work/</loc>
-        <lastmod>2024-09-24T22:02:19+05:30</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/examination/</loc>
+        <loc>//localhost:1313/tags/examination/</loc>
         <lastmod>2024-09-23T15:48:55+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/tags/management/</loc>
+        <loc>//localhost:1313/tags/management/</loc>
         <lastmod>2024-09-23T15:48:55+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/posts/management/</loc>
+        <loc>//localhost:1313/posts/management/</loc>
         <lastmod>2024-09-23T15:48:55+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/tags/university/</loc>
+        <loc>//localhost:1313/tags/university/</loc>
         <lastmod>2024-09-23T15:48:55+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/posts/polymath/</loc>
+        <loc>//localhost:1313/posts/polymath/</loc>
         <lastmod>2024-09-21T17:41:43+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/about/</loc>
+        <loc>//localhost:1313/about/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/contact/</loc>
+        <loc>//localhost:1313/contact/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/credits/</loc>
+        <loc>//localhost:1313/credits/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/search/</loc>
+        <loc>//localhost:1313/search/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>

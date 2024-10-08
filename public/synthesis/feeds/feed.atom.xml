@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="//localhost:1313/">
+    <title>Syntheses - corpus principiorum et notitiarum.</title>
+    <subtitle type="html"><![CDATA[Welcome to the curated repository of ARUSHIK,  a discerning individual who prefers the veil of anonymity,  yet invites the astute observer to discern the truth beneath.]]></subtitle>
+    <link href="/synthesis/" rel="alternate" type="text/html" title="html" />
+    <link href="/synthesis/feeds/feed.atom.xml" rel="self" type="text/xml" title="atom" />
+    <link href="/synthesis/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="feed" />
+    <link href="/synthesis/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+    <icon>//localhost:1313/img/open-graph-logo_hu1096175607311285209.png</icon>
+    <logo>//localhost:1313/img/open-graph-logo_hu1096175607311285209.png</logo>
+    <author>
+        <name>ARUSHIK</name>
+        <email>otspiritz04@gmail.com</email>
+    </author>
+    <rights>Copyright © 2019-2024 Serghei Iakovlev</rights>
+    <generator uri="https://gohugo.io" version="0.134.3">Hugo</generator>
+    <updated>2024-10-08T22:09:18+05:30</updated>
+    <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
+    <entry>
+        
+        <category term="synthesis" />
+        
+        <link rel="alternate" type="type/html" href="//localhost:1313/synthesis/mandelbrot/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Mandelbrot]]></title>
+        
+        
+        
+        <published>2024-10-08T22:09:18+05:30</published>
+        <updated>2024-10-08T22:09:18+05:30</updated>
+        <id>urn:uuid:3d9fd12a-547a-5b82-e92c-2d368f812e12</id>
+        
+        <summary type="html"><![CDATA[<h1 id="mandelbrot-set">Mandelbrot Set</h1>]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="synthesis" />
+        
+            
+            <category term="Programming" x="y" />
+            
+        
+            
+            <category term="Mathematics" x="y" />
+            
+        
+            
+            <category term="Cellular Automata" x="y" />
+            
+        
+            
+            <category term="Computing" x="y" />
+            
+        
+        <link rel="alternate" type="type/html" href="//localhost:1313/synthesis/game_of_life/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[The Game of Life]]></title>
+        
+        
+        
+        <published>2024-10-08T20:08:38+05:30</published>
+        <updated>2024-10-08T20:08:38+05:30</updated>
+        <id>urn:uuid:4b02123b-6b75-5366-39c1-73c500ea45be</id>
+        
+        <summary type="html"><![CDATA[<table>
+  <thead>
+      <tr>
+          <th style="text-align: center"><img alt="conway" src="https://github.com/ShirakuGIT/mathemagic/blob/main/conway/conway_sim.gif?raw=true" title="Conway&#39;s Game of Life"></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center"><a href="https://github.com/ShirakuGIT/mathemagic"><em>Rendering of Conway&rsquo;s Game of Life</em></a></td>
+      </tr>
+  </tbody>
+</table>
+<h1 id="table-of-contents">Table of Contents</h1>
+<ol>
+<li><a href="/synthesis/game_of_life/#cellular-automata">Cellular Automata</a></li>
+<li><a href="/synthesis/game_of_life/#conways-game-of-life">Conway&rsquo;s game of life</a></li>
+<li><a href="/synthesis/game_of_life/#rules">Rules</a></li>
+<li><a href="/synthesis/game_of_life/#implementation">Implementation</a></li>
+<li><a href="/synthesis/game_of_life/#shortcomings">Shortcomings</a></li>
+</ol>
+<h2 id="cellular-automata">Cellular Automata</h2>
+<p>Cellular Automata is a field of computer science dealing with modelling certain systems by dividng a space into a grid of cells, each cell can take upon a finite number of states.
+The states are then influenced and modified according to a set of rules which similarly influence neighbouring cells.</p>]]></summary>
+    </entry>
+</feed>

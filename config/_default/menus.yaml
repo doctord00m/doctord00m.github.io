@@ -14,7 +14,12 @@ main:                # sections in the website sidebar
   - identifier: posts
     name: Posts
     url: /posts/
-    weight: 5
+    weight: 3
+
+  - identifier: synthesis
+    name: Synthesis of Ideas
+    url: /synthesis/
+    weight: 4
 
   - identifier: search
     name: Search

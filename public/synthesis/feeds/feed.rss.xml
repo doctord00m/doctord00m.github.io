@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xml:lang="en"
+    xml:base="//localhost:1313/">
+    <channel>
+        <title>Syntheses - corpus principiorum et notitiarum.</title>
+        <link>//localhost:1313/synthesis/</link>
+        <description>Welcome to the curated repository of ARUSHIK,  a discerning individual who prefers the veil of anonymity,  yet invites the astute observer to discern the truth …</description>
+        <generator>Hugo 0.134.3</generator>
+        <language>en</language>
+        <copyright>Copyright © 2019-2024 Serghei Iakovlev</copyright>
+        <lastBuildDate>Tue, 08 Oct 2024 22:09:18 +0530</lastBuildDate>
+        <atom:link href="/synthesis/" rel="alternate" type="text/html" title="html" />
+        <atom:link href="/synthesis/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="atom" />
+        <atom:link href="/synthesis/feeds/feed.rss.xml" rel="self" type="text/xml" title="feed" />
+        <atom:link href="/synthesis/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+        <item>
+            <title>Mandelbrot</title>
+            <link>//localhost:1313/synthesis/mandelbrot/?utm_source=rss_feed</link>
+            <pubDate>Tue, 08 Oct 2024 22:09:18 +0530</pubDate>
+            <author>otspiritz04@gmail.com (ARUSHIK)</author>
+            <category>synthesis</category>
+            <guid isPermaLink="false">832f25732cd98cd689faa02ce5110d9f</guid>
+            <description>&lt;h1 id=&#34;mandelbrot-set&#34;&gt;Mandelbrot Set&lt;/h1&gt;</description>
+        </item>
+    
+        <item>
+            <title>The Game of Life</title>
+            <link>//localhost:1313/synthesis/game_of_life/?utm_source=rss_feed</link>
+            <pubDate>Tue, 08 Oct 2024 20:08:38 +0530</pubDate>
+            <author>otspiritz04@gmail.com (ARUSHIK)</author>
+            <category>synthesis</category>
+            <category>Programming</category>
+            <category>Mathematics</category>
+            <category>Cellular Automata</category>
+            <category>Computing</category>
+            <guid isPermaLink="false">190c65d03c94e3fddb583e496219e948</guid>
+            <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;conway&#34; src=&#34;https://github.com/ShirakuGIT/mathemagic/blob/main/conway/conway_sim.gif?raw=true&#34; title=&#34;Conway&amp;#39;s Game of Life&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;https://github.com/ShirakuGIT/mathemagic&#34;&gt;&lt;em&gt;Rendering of Conway&amp;rsquo;s Game of Life&lt;/em&gt;&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h1 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/synthesis/game_of_life/#cellular-automata&#34;&gt;Cellular Automata&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/synthesis/game_of_life/#conways-game-of-life&#34;&gt;Conway&amp;rsquo;s game of life&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/synthesis/game_of_life/#rules&#34;&gt;Rules&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/synthesis/game_of_life/#implementation&#34;&gt;Implementation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;/synthesis/game_of_life/#shortcomings&#34;&gt;Shortcomings&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;cellular-automata&#34;&gt;Cellular Automata&lt;/h2&gt;&#xA;&lt;p&gt;Cellular Automata is a field of computer science dealing with modelling certain systems by dividng a space into a grid of cells, each cell can take upon a finite number of states.&#xA;The states are then influenced and modified according to a set of rules which similarly influence neighbouring cells.&lt;/p&gt;</description>
+        </item>
+    
+    </channel>
+</rss>

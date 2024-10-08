@@ -1,0 +1,31 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Syntheses - corpus principiorum et notitiarum.",
+  "home_page_url": "//localhost:1313/?utm_source=json_feed",
+  
+  "description": "Welcome to the curated repository of ARUSHIK,  a discerning individual who prefers the veil of anonymity,  yet invites the astute observer to discern the truth beneath.",
+  "icon": "//localhost:1313/img/open-graph-logo_hu1096175607311285209.png",
+  "favicon": "//localhost:1313/img/open-graph-logo_hu1096175607311285209.png",
+  "authors": [
+    {
+      "name": "ARUSHIK"
+    }
+  ],
+  "language" : "en",
+  "items": [
+    {
+      "id": "3d9fd12a-547a-5b82-e92c-2d368f812e12",
+      "url": "//localhost:1313/synthesis/mandelbrot/?utm_source=json_feed",
+      "title": "Mandelbrot",
+      "summary": "Mandelbrot Set",
+      "date_published": "2024-10-08T22:09:18+05:30"
+    },
+    {
+      "id": "4b02123b-6b75-5366-39c1-73c500ea45be",
+      "url": "//localhost:1313/synthesis/game_of_life/?utm_source=json_feed",
+      "title": "The Game of Life",
+      "summary": " Rendering of Conway\u0026rsquo;s Game of Life Table of Contents Cellular Automata Conway\u0026rsquo;s game of life Rules Implementation Shortcomings Cellular Automata Cellular Automata is a field of computer science dealing with modelling certain systems by dividng a space into a grid of cells, each cell can take upon a finite number of states. The states are then influenced and modified according to a set of rules which similarly influence neighbouring cells.",
+      "date_published": "2024-10-08T20:08:38+05:30"
+    }
+  ]
+}
