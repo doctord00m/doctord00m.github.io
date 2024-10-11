@@ -17,8 +17,100 @@
     </author>
     <rights>Copyright © 2019-2024 Serghei Iakovlev</rights>
     <generator uri="https://gohugo.io" version="0.134.3">Hugo</generator>
-    <updated>2024-10-08T22:09:18+05:30</updated>
+    <updated>2024-10-11T19:24:25+05:30</updated>
     <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
+    <entry>
+        
+        <category term="notes" />
+        
+        <link rel="alternate" type="type/html" href="//localhost:1313/notes/test/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Test]]></title>
+        
+        
+        
+        <published>2024-10-11T19:24:25+05:30</published>
+        <updated>2024-10-11T19:24:25+05:30</updated>
+        <id>urn:uuid:0846b8b2-8c54-59c7-897d-44c70619293a</id>
+        
+        <summary type="html"><![CDATA[<p>hello</p>
+<h1 id="section-1">Section 1</h1>
+<h2 id="section-2">Section 2</h2>
+<h3 id="section-3">Section 3</h3>
+<hr>
+<h1 id="section-2-1">Section 2</h1>
+<h2 id="section-21">Section 2.1</h2>
+<h3 id="section-23">Section 2.3</h3>
+
+<img src="/images/conway.jpeg" alt="Your very own Ed">]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="synthesis" />
+        
+        <link rel="alternate" type="type/html" href="//localhost:1313/synthesis/mandelbrot/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Mandelbrot]]></title>
+        
+        
+        
+        <published>2024-10-08T22:09:18+05:30</published>
+        <updated>2024-10-08T22:09:18+05:30</updated>
+        <id>urn:uuid:3d9fd12a-547a-5b82-e92c-2d368f812e12</id>
+        
+        <summary type="html"><![CDATA[<h1 id="mandelbrot-set">Mandelbrot Set</h1>]]></summary>
+    </entry>
+    <entry>
+        
+        <category term="synthesis" />
+        
+            
+            <category term="Programming" x="y" />
+            
+        
+            
+            <category term="Mathematics" x="y" />
+            
+        
+            
+            <category term="Cellular Automata" x="y" />
+            
+        
+            
+            <category term="Computing" x="y" />
+            
+        
+        <link rel="alternate" type="type/html" href="//localhost:1313/synthesis/game_of_life/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[The Game of Life]]></title>
+        
+        
+        
+        <published>2024-10-08T20:08:38+05:30</published>
+        <updated>2024-10-08T20:08:38+05:30</updated>
+        <id>urn:uuid:4b02123b-6b75-5366-39c1-73c500ea45be</id>
+        
+        <summary type="html"><![CDATA[<table>
+  <thead>
+      <tr>
+          <th style="text-align: center"><img alt="conway" src="https://github.com/ShirakuGIT/mathemagic/blob/main/conway/conway_sim.gif?raw=true" title="Conway&#39;s Game of Life"></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center"><a href="https://github.com/ShirakuGIT/mathemagic"><em>Rendering of Conway&rsquo;s Game of Life</em></a></td>
+      </tr>
+  </tbody>
+</table>
+<h1 id="table-of-contents">Table of Contents</h1>
+<ol>
+<li><a href="/synthesis/game_of_life/#cellular-automata">Cellular Automata</a></li>
+<li><a href="/synthesis/game_of_life/#conways-game-of-life">Conway&rsquo;s game of life</a></li>
+<li><a href="/synthesis/game_of_life/#rules">Rules</a></li>
+<li><a href="/synthesis/game_of_life/#implementation">Implementation</a></li>
+<li><a href="/synthesis/game_of_life/#shortcomings">Shortcomings</a></li>
+</ol>
+<h2 id="cellular-automata">Cellular Automata</h2>
+<p>Cellular Automata is a field of computer science dealing with modelling certain systems by dividng a space into a grid of cells, each cell can take upon a finite number of states.
+The states are then influenced and modified according to a set of rules which similarly influence neighbouring cells.</p>]]></summary>
+    </entry>
     <entry>
         
         <category term="posts" />
@@ -109,6 +201,10 @@
         <id>urn:uuid:404733a4-5dda-552c-d924-dc51efb9e6db</id>
         
         <summary type="html"><![CDATA[<h1 id="becoming-a-polymath-is-easy-actually">Becoming a polymath is easy, actually.</h1>
+
+<img src="/posts/image.png" alt="Spidey cookin" class="center">
+
+
 <p>For the longest time, I&rsquo;ve caught myself wondering - &ldquo;Shouldn&rsquo;t it be possible to become specialised in any and every skill there is available since the advent of the search engine?&rdquo;
 The search engine is the ultimate querying machine, with the expanse of knowledge covering some of the best minds in  the world, all provided to you with the only pre-requisite of:</p>
 <ul>

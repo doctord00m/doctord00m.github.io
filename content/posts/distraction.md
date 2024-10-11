@@ -11,7 +11,8 @@ Cut the distractions, or so I yearn to do, and yet I fail miserably, only to get
 
 I just finished my Cryptography test, absolutely nailed it, no regrets whatsoever. Finished the exam in half the time required. To be fair though, the questions weren't inherently difficult to begin with, and I was in reality just solving based on pure muscle memory. 
 
-![Genius](image.png)
+{{<img src="/posts/image.png" alt="Spidey cookin" class="center">}}
+
 
 Anyways, onto the topic at hand, *distractions*.
 See what I did there? I got distracted as I was writing this.
@@ -20,7 +21,7 @@ I don't know why, but I am not able to focus for tomorrow's test - *Software Pro
 
 I am not sure what to do with this subject, I am probably going to get cooked not going to lie.
 
-![Me in the test tomorrow](image-1.png)
+{{<img src="/posts/image-1.png" alt="thunk" class="center">}}
 
 It's incredible to me how the human brain just actively refuses to store information no matter how hard or relevant the information may be, probably an evolutionary mechanism to prevent storing unnecessary information. 
 
@@ -30,7 +31,7 @@ Evolution really did us dirty. Atleast for me, in this specific situation and ma
 
 I should figure something out...
 
-![thunking](image-2.png)
+{{<img src="/posts/image-2.png" alt="cookin" class="center">}}
 
 What is the best way to streamline your thoughts into action, and towards the goal of the examination?
 
@@ -42,6 +43,6 @@ Not this time though, this strategy probably will not work because my brain is l
 
 I am not sure if this is a good strategy to follow.
 
-![strategizing?](image-3.png)
+{{<img src="/posts/image-3.png" alt="strategy" class="center">}}
 
 Alright, I gotta go figure something out or I am actually cooked. Peace.

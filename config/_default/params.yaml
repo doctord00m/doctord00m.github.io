@@ -39,9 +39,8 @@ footer: >-
 # - ...
 mainSections:
   - posts
-  - dramas
-  - narratives
-  - poems
+  - synthesis
+  - notes
 
 # Posts date format, for example: 2006-01-02
 dateFormat: ':date_long'

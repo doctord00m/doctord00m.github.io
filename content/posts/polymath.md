@@ -5,6 +5,9 @@ draft = false
 +++
 
 # Becoming a polymath is easy, actually.
+
+{{<img src="/posts/image.png" alt="Spidey cookin" class="center">}}
+
 For the longest time, I've caught myself wondering - "Shouldn't it be possible to become specialised in any and every skill there is available since the advent of the search engine?"
 The search engine is the ultimate querying machine, with the expanse of knowledge covering some of the best minds in  the world, all provided to you with the only pre-requisite of:
 
@@ -34,7 +37,7 @@ And that's it, that's what's lacking. Critical Thinking.
 
 The ability to comprehend any and all information is, in my opinion, completely determined by whether you can ask the right questions. Here, right questions implies questions that allow you to comprehend. It's recursive.
 
-![Polymath Diagram](doctord00m.github.io/images/polymath1.png "Polymath Diagram")
+{{< img src="/posts/polymath1.png" alt="polymath graph" >}}
 
 This is, inherently, a VERY complicated process. But, I believe this is the ideal way to perform scientific inquiry. 
 Let's divide and conquer the above graph to get  a clear idea.

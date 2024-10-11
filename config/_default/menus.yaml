@@ -21,12 +21,17 @@ main:                # sections in the website sidebar
     url: /synthesis/
     weight: 4
 
+  - identifier: notes
+    name: Notes
+    url: /notes/
+    weight: 5
+
   - identifier: search
     name: Search
     url: /search/
-    weight: 5
+    weight: 6
 
   - identifier: contact
     name: Contact
     url: /contact/
-    weight: 6
+    weight: 7

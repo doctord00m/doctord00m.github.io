@@ -33,6 +33,11 @@
       "url": "/synthesis/"
     } ,
     {
+      "name": "Notes",
+      "short_name" : "notes",
+      "url": "/notes/"
+    } ,
+    {
       "name": "Search",
       "short_name" : "search",
       "url": "/search/"
