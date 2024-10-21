@@ -8,22 +8,36 @@
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:media="http://search.yahoo.com/mrss/"
     xml:lang="en"
-    xml:base="//localhost:1313/">
+    xml:base="//localhost:5500/">
     <channel>
         <title>Posts - corpus principiorum et notitiarum.</title>
-        <link>//localhost:1313/posts/</link>
+        <link>//localhost:5500/posts/</link>
         <description>Welcome to the curated repository of ARUSHIK,  a discerning individual who prefers the veil of anonymity,  yet invites the astute observer to discern the truth …</description>
         <generator>Hugo 0.134.3</generator>
         <language>en</language>
         <copyright>Copyright © 2019-2024 Serghei Iakovlev</copyright>
-        <lastBuildDate>Fri, 11 Oct 2024 19:24:25 +0530</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 17:02:40 +0530</lastBuildDate>
         <atom:link href="/posts/" rel="alternate" type="text/html" title="html" />
         <atom:link href="/posts/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="atom" />
         <atom:link href="/posts/feeds/feed.rss.xml" rel="self" type="text/xml" title="feed" />
         <atom:link href="/posts/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
         <item>
+            <title>Relevance</title>
+            <link>//localhost:5500/posts/relevance/?utm_source=rss_feed</link>
+            <pubDate>Mon, 21 Oct 2024 17:02:40 +0530</pubDate>
+            <author>otspiritz04@gmail.com (ARUSHIK)</author>
+            <category>posts</category>
+            <category>Academics</category>
+            <category>Research</category>
+            <category>Theories</category>
+            <category>Learning</category>
+            <guid isPermaLink="false">337588689afa352b87fffa83693364dc</guid>
+            <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Relevance is the most important factor in directing your learning.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;This is a theory I have been cooking up for about the past three days. The entire premise is that without relevance, it&amp;rsquo;s entirely impossible to learn effectively, let alone &lt;em&gt;learn&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;So let&amp;rsquo;s define relevance within this context.&lt;/p&gt;&#xA;&lt;h2 id=&#34;relevance&#34;&gt;Relevance&lt;/h2&gt;&#xA;&lt;p&gt;Relevance is essentially the &lt;em&gt;metadata&lt;/em&gt; attached to your present learning situation. Metadata describes how the data is structured, what it contains and how it&amp;rsquo;s used. This is from the perspective of computing.&lt;/p&gt;</description>
+        </item>
+    
+        <item>
             <title>Distraction</title>
-            <link>//localhost:1313/posts/distraction/?utm_source=rss_feed</link>
+            <link>//localhost:5500/posts/distraction/?utm_source=rss_feed</link>
             <pubDate>Tue, 24 Sep 2024 22:02:19 +0530</pubDate>
             <author>otspiritz04@gmail.com (ARUSHIK)</author>
             <category>posts</category>
@@ -32,13 +46,13 @@
             <category>Work</category>
             <category>Meaning</category>
             <category>Education</category>
-            <guid isPermaLink="false">4e229b65dd42cbb5cec04dc1b19c6926</guid>
+            <guid isPermaLink="false">b3bc67acead8cb629e818230c929975a</guid>
             <description>&lt;h1 id=&#34;distractions&#34;&gt;Distractions.&lt;/h1&gt;&#xA;&lt;p&gt;Cut the distractions, or so I yearn to do, and yet I fail miserably, only to get  distracted by something else and well, repeat this again.&lt;/p&gt;&#xA;&lt;p&gt;I just finished my Cryptography test, absolutely nailed it, no regrets whatsoever. Finished the exam in half the time required. To be fair though, the questions weren&amp;rsquo;t inherently difficult to begin with, and I was in reality just solving based on pure muscle memory.&lt;/p&gt;</description>
         </item>
     
         <item>
             <title>Management</title>
-            <link>//localhost:1313/posts/management/?utm_source=rss_feed</link>
+            <link>//localhost:5500/posts/management/?utm_source=rss_feed</link>
             <pubDate>Mon, 23 Sep 2024 15:48:55 +0530</pubDate>
             <author>otspiritz04@gmail.com (ARUSHIK)</author>
             <category>posts</category>
@@ -46,17 +60,17 @@
             <category>University</category>
             <category>Education</category>
             <category>Examination</category>
-            <guid isPermaLink="false">618d624bfcfd9be24e0d3fe4c649b784</guid>
+            <guid isPermaLink="false">8f4e2b2a1db44194abdefeb67d983580</guid>
             <description>&lt;h1 id=&#34;ah-yes-management&#34;&gt;Ah, yes, Management.&lt;/h1&gt;&#xA;&lt;p&gt;The epitome of corporate circle-jerking and unnecessary corporate bureaucracy, nevertheless the most important part of any corporate structure or enterprise. And as a result of it&amp;rsquo;s significance, it taught in some form or sense in university.&lt;/p&gt;&#xA;&lt;p&gt;I just finished my Mid-Semester examination for the course - &amp;ldquo;Essentials of Management&amp;rdquo;. It was alright, except for one question that completely threw me on a curveball.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;alt text&#34; src=&#34;https://static.studyusa.com/blog/COLOR-THROW-A-CURVE-StudyUSA.jpg?format=webp&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The question, as far as I can recall goes something like this:&lt;/p&gt;</description>
         </item>
     
         <item>
             <title>Polymath</title>
-            <link>//localhost:1313/posts/polymath/?utm_source=rss_feed</link>
+            <link>//localhost:5500/posts/polymath/?utm_source=rss_feed</link>
             <pubDate>Sat, 21 Sep 2024 17:41:43 +0530</pubDate>
             <author>otspiritz04@gmail.com (ARUSHIK)</author>
             <category>posts</category>
-            <guid isPermaLink="false">e14437ee2344a329d96c6f5c8cf21502</guid>
+            <guid isPermaLink="false">c53a4054e7f0b4ceca95159be782deaa</guid>
             <description>&lt;h1 id=&#34;becoming-a-polymath-is-easy-actually&#34;&gt;Becoming a polymath is easy, actually.&lt;/h1&gt;&#xA;&#xA;&lt;img src=&#34;/posts/image.png&#34; alt=&#34;Spidey cookin&#34; class=&#34;center&#34;&gt;&#xA;&#xA;&#xA;&lt;p&gt;For the longest time, I&amp;rsquo;ve caught myself wondering - &amp;ldquo;Shouldn&amp;rsquo;t it be possible to become specialised in any and every skill there is available since the advent of the search engine?&amp;rdquo;&#xA;The search engine is the ultimate querying machine, with the expanse of knowledge covering some of the best minds in  the world, all provided to you with the only pre-requisite of:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Having an internet connection&lt;/li&gt;&#xA;&lt;li&gt;A personal computer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Yet, interestingly enough, I believe from my personal observations, that the exact opposite scenario is taking place, wherein we have people that have access to both the aforementioned prerequisite tech, but lack any and all ability to capture and transfer any information to any domain. Let me expand.&lt;/p&gt;</description>
         </item>
     

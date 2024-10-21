@@ -8,26 +8,26 @@
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:media="http://search.yahoo.com/mrss/"
     xml:lang="en"
-    xml:base="//localhost:1313/">
+    xml:base="//localhost:5500/">
     <channel>
         <title>Notes - corpus principiorum et notitiarum.</title>
-        <link>//localhost:1313/notes/</link>
+        <link>//localhost:5500/notes/</link>
         <description>Welcome to the curated repository of ARUSHIK,  a discerning individual who prefers the veil of anonymity,  yet invites the astute observer to discern the truth …</description>
         <generator>Hugo 0.134.3</generator>
         <language>en</language>
         <copyright>Copyright © 2019-2024 Serghei Iakovlev</copyright>
-        <lastBuildDate>Fri, 11 Oct 2024 19:24:25 +0530</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 17:02:40 +0530</lastBuildDate>
         <atom:link href="/notes/" rel="alternate" type="text/html" title="html" />
         <atom:link href="/notes/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="atom" />
         <atom:link href="/notes/feeds/feed.rss.xml" rel="self" type="text/xml" title="feed" />
         <atom:link href="/notes/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
         <item>
             <title>Test</title>
-            <link>//localhost:1313/notes/test/?utm_source=rss_feed</link>
+            <link>//localhost:5500/notes/test/?utm_source=rss_feed</link>
             <pubDate>Fri, 11 Oct 2024 19:24:25 +0530</pubDate>
             <author>otspiritz04@gmail.com (ARUSHIK)</author>
             <category>notes</category>
-            <guid isPermaLink="false">7c076c5675c1c10e5990c39c165b2749</guid>
+            <guid isPermaLink="false">36f87e83c53219ac4d9fb4a58eb625fc</guid>
             <description>&lt;p&gt;hello&lt;/p&gt;&#xA;&lt;h1 id=&#34;section-1&#34;&gt;Section 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section-2&#34;&gt;Section 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;section-3&#34;&gt;Section 3&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;section-2-1&#34;&gt;Section 2&lt;/h1&gt;&#xA;&lt;h2 id=&#34;section-21&#34;&gt;Section 2.1&lt;/h2&gt;&#xA;&lt;h3 id=&#34;section-23&#34;&gt;Section 2.3&lt;/h3&gt;&#xA;&#xA;&lt;img src=&#34;/images/conway.jpeg&#34; alt=&#34;Your very own Ed&#34;&gt;</description>
         </item>
     
