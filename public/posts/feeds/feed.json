@@ -1,11 +1,11 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Posts - corpus principiorum et notitiarum.",
-  "home_page_url": "//localhost:5500/?utm_source=json_feed",
+  "home_page_url": "//localhost:1313/?utm_source=json_feed",
   
   "description": "Welcome to the curated repository of ARUSHIK,  a discerning individual who prefers the veil of anonymity,  yet invites the astute observer to discern the truth beneath.",
-  "icon": "//localhost:5500/img/open-graph-logo_hu1096175607311285209.png",
-  "favicon": "//localhost:5500/img/open-graph-logo_hu1096175607311285209.png",
+  "icon": "//localhost:1313/img/open-graph-logo_hu1096175607311285209.png",
+  "favicon": "//localhost:1313/img/open-graph-logo_hu1096175607311285209.png",
   "authors": [
     {
       "name": "ARUSHIK"
@@ -14,29 +14,29 @@
   "language" : "en",
   "items": [
     {
-      "id": "f617034b-ff4b-58f7-09c4-a11a3f42e0d9",
-      "url": "//localhost:5500/posts/relevance/?utm_source=json_feed",
+      "id": "8d356290-74f2-57f5-b942-18f0d0bb5433",
+      "url": "//localhost:1313/posts/relevance/?utm_source=json_feed",
       "title": "Relevance",
       "summary": " Relevance is the most important factor in directing your learning.\nThis is a theory I have been cooking up for about the past three days. The entire premise is that without relevance, it\u0026rsquo;s entirely impossible to learn effectively, let alone learn.\nSo let\u0026rsquo;s define relevance within this context.\nRelevance Relevance is essentially the metadata attached to your present learning situation. Metadata describes how the data is structured, what it contains and how it\u0026rsquo;s used. This is from the perspective of computing.",
       "date_published": "2024-10-21T17:02:40+05:30"
     },
     {
-      "id": "97577702-81f7-5d3a-f9e1-23abd0d0723b",
-      "url": "//localhost:5500/posts/distraction/?utm_source=json_feed",
+      "id": "104bfa0d-1aa6-5e4a-d940-a7bdde00356f",
+      "url": "//localhost:1313/posts/distraction/?utm_source=json_feed",
       "title": "Distraction",
       "summary": "Distractions. Cut the distractions, or so I yearn to do, and yet I fail miserably, only to get distracted by something else and well, repeat this again.\nI just finished my Cryptography test, absolutely nailed it, no regrets whatsoever. Finished the exam in half the time required. To be fair though, the questions weren\u0026rsquo;t inherently difficult to begin with, and I was in reality just solving based on pure muscle memory.",
       "date_published": "2024-09-24T22:02:19+05:30"
     },
     {
-      "id": "100bace0-09c1-54c7-f9fa-05e1a9b47992",
-      "url": "//localhost:5500/posts/management/?utm_source=json_feed",
+      "id": "f248f7c9-07f7-59f2-59ad-d2713a511cae",
+      "url": "//localhost:1313/posts/management/?utm_source=json_feed",
       "title": "Management",
       "summary": "Ah, yes, Management. The epitome of corporate circle-jerking and unnecessary corporate bureaucracy, nevertheless the most important part of any corporate structure or enterprise. And as a result of it\u0026rsquo;s significance, it taught in some form or sense in university.\nI just finished my Mid-Semester examination for the course - \u0026ldquo;Essentials of Management\u0026rdquo;. It was alright, except for one question that completely threw me on a curveball.\nThe question, as far as I can recall goes something like this:",
       "date_published": "2024-09-23T15:48:55+05:30"
     },
     {
-      "id": "99b0b379-14b0-5329-7994-5e3fc602cc72",
-      "url": "//localhost:5500/posts/polymath/?utm_source=json_feed",
+      "id": "404733a4-5dda-552c-d924-dc51efb9e6db",
+      "url": "//localhost:1313/posts/polymath/?utm_source=json_feed",
       "title": "Polymath",
       "summary": "Becoming a polymath is easy, actually. For the longest time, I\u0026rsquo;ve caught myself wondering - \u0026ldquo;Shouldn\u0026rsquo;t it be possible to become specialised in any and every skill there is available since the advent of the search engine?\u0026rdquo; The search engine is the ultimate querying machine, with the expanse of knowledge covering some of the best minds in the world, all provided to you with the only pre-requisite of:\nHaving an internet connection A personal computer Yet, interestingly enough, I believe from my personal observations, that the exact opposite scenario is taking place, wherein we have people that have access to both the aforementioned prerequisite tech, but lack any and all ability to capture and transfer any information to any domain. Let me expand.",
       "date_published": "2024-09-21T17:41:43+05:30"

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="//localhost:5500/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="//localhost:1313/">
     <title>Posts - corpus principiorum et notitiarum.</title>
     <subtitle type="html"><![CDATA[Welcome to the curated repository of ARUSHIK,  a discerning individual who prefers the veil of anonymity,  yet invites the astute observer to discern the truth beneath.]]></subtitle>
     <link href="/posts/" rel="alternate" type="text/html" title="html" />
     <link href="/posts/feeds/feed.atom.xml" rel="self" type="text/xml" title="atom" />
     <link href="/posts/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="feed" />
     <link href="/posts/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
-    <icon>//localhost:5500/img/open-graph-logo_hu1096175607311285209.png</icon>
-    <logo>//localhost:5500/img/open-graph-logo_hu1096175607311285209.png</logo>
+    <icon>//localhost:1313/img/open-graph-logo_hu1096175607311285209.png</icon>
+    <logo>//localhost:1313/img/open-graph-logo_hu1096175607311285209.png</logo>
     <author>
         <name>ARUSHIK</name>
         <email>otspiritz04@gmail.com</email>
@@ -15,7 +15,7 @@
     <rights>Copyright © 2019-2024 Serghei Iakovlev</rights>
     <generator uri="https://gohugo.io" version="0.134.3">Hugo</generator>
     <updated>2024-10-21T17:02:40+05:30</updated>
-    <id>urn:uuid:60ac812d-53cf-5bc6-c9c5-2e512abd20b5</id>
+    <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
     <entry>
         
         <category term="posts" />
@@ -36,14 +36,14 @@
             <category term="Learning" x="y" />
             
         
-        <link rel="alternate" type="type/html" href="//localhost:5500/posts/relevance/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="//localhost:1313/posts/relevance/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Relevance]]></title>
         
         
         
         <published>2024-10-21T17:02:40+05:30</published>
         <updated>2024-10-21T17:02:40+05:30</updated>
-        <id>urn:uuid:f617034b-ff4b-58f7-09c4-a11a3f42e0d9</id>
+        <id>urn:uuid:8d356290-74f2-57f5-b942-18f0d0bb5433</id>
         
         <summary type="html"><![CDATA[<blockquote>
 <p>Relevance is the most important factor in directing your learning.</p>
@@ -77,16 +77,16 @@
             <category term="Education" x="y" />
             
         
-        <link rel="alternate" type="type/html" href="//localhost:5500/posts/distraction/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="//localhost:1313/posts/distraction/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Distraction]]></title>
         
         
         
-            <link href="//localhost:5500/posts/management/?utm_source=atom_feed" rel="related" type="text/html" title="Management" />
+            <link href="//localhost:1313/posts/management/?utm_source=atom_feed" rel="related" type="text/html" title="Management" />
         
         <published>2024-09-24T22:02:19+05:30</published>
         <updated>2024-09-24T22:02:19+05:30</updated>
-        <id>urn:uuid:97577702-81f7-5d3a-f9e1-23abd0d0723b</id>
+        <id>urn:uuid:104bfa0d-1aa6-5e4a-d940-a7bdde00356f</id>
         
         <summary type="html"><![CDATA[<h1 id="distractions">Distractions.</h1>
 <p>Cut the distractions, or so I yearn to do, and yet I fail miserably, only to get  distracted by something else and well, repeat this again.</p>
@@ -112,16 +112,16 @@
             <category term="Examination" x="y" />
             
         
-        <link rel="alternate" type="type/html" href="//localhost:5500/posts/management/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="//localhost:1313/posts/management/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Management]]></title>
         
         
         
-            <link href="//localhost:5500/posts/distraction/?utm_source=atom_feed" rel="related" type="text/html" title="Distraction" />
+            <link href="//localhost:1313/posts/distraction/?utm_source=atom_feed" rel="related" type="text/html" title="Distraction" />
         
         <published>2024-09-23T15:48:55+05:30</published>
         <updated>2024-09-23T15:48:55+05:30</updated>
-        <id>urn:uuid:100bace0-09c1-54c7-f9fa-05e1a9b47992</id>
+        <id>urn:uuid:f248f7c9-07f7-59f2-59ad-d2713a511cae</id>
         
         <summary type="html"><![CDATA[<h1 id="ah-yes-management">Ah, yes, Management.</h1>
 <p>The epitome of corporate circle-jerking and unnecessary corporate bureaucracy, nevertheless the most important part of any corporate structure or enterprise. And as a result of it&rsquo;s significance, it taught in some form or sense in university.</p>
@@ -133,14 +133,14 @@
         
         <category term="posts" />
         
-        <link rel="alternate" type="type/html" href="//localhost:5500/posts/polymath/?utm_source=atom_feed" />
+        <link rel="alternate" type="type/html" href="//localhost:1313/posts/polymath/?utm_source=atom_feed" />
         <title type="html"><![CDATA[Polymath]]></title>
         
         
         
         <published>2024-09-21T17:41:43+05:30</published>
         <updated>2024-09-21T17:41:43+05:30</updated>
-        <id>urn:uuid:99b0b379-14b0-5329-7994-5e3fc602cc72</id>
+        <id>urn:uuid:404733a4-5dda-552c-d924-dc51efb9e6db</id>
         
         <summary type="html"><![CDATA[<h1 id="becoming-a-polymath-is-easy-actually">Becoming a polymath is easy, actually.</h1>
 

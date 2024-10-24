@@ -2,221 +2,221 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>//localhost:5500/tags/academics/</loc>
+        <loc>//localhost:1313/tags/academics/</loc>
         <lastmod>2024-10-21T17:02:40+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/learning/</loc>
+        <loc>//localhost:1313/tags/learning/</loc>
         <lastmod>2024-10-21T17:02:40+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/</loc>
+        <loc>//localhost:1313/</loc>
         <lastmod>2024-10-21T17:02:40+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/posts/</loc>
+        <loc>//localhost:1313/posts/</loc>
         <lastmod>2024-10-21T17:02:40+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/posts/relevance/</loc>
+        <loc>//localhost:1313/posts/relevance/</loc>
         <lastmod>2024-10-21T17:02:40+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/research/</loc>
+        <loc>//localhost:1313/tags/research/</loc>
         <lastmod>2024-10-21T17:02:40+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/</loc>
+        <loc>//localhost:1313/tags/</loc>
         <lastmod>2024-10-21T17:02:40+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/theories/</loc>
+        <loc>//localhost:1313/tags/theories/</loc>
         <lastmod>2024-10-21T17:02:40+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/notes/</loc>
+        <loc>//localhost:1313/notes/</loc>
         <lastmod>2024-10-11T19:24:25+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/notes/test/</loc>
+        <loc>//localhost:1313/notes/test/</loc>
         <lastmod>2024-10-11T19:24:25+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/synthesis/mandelbrot/</loc>
+        <loc>//localhost:1313/synthesis/mandelbrot/</loc>
         <lastmod>2024-10-08T22:09:18+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/synthesis/</loc>
+        <loc>//localhost:1313/synthesis/</loc>
         <lastmod>2024-10-08T22:09:18+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/cellular-automata/</loc>
+        <loc>//localhost:1313/tags/cellular-automata/</loc>
         <lastmod>2024-10-08T20:08:38+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/computing/</loc>
+        <loc>//localhost:1313/tags/computing/</loc>
         <lastmod>2024-10-08T20:08:38+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/mathematics/</loc>
+        <loc>//localhost:1313/tags/mathematics/</loc>
         <lastmod>2024-10-08T20:08:38+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/programming/</loc>
+        <loc>//localhost:1313/tags/programming/</loc>
         <lastmod>2024-10-08T20:08:38+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/synthesis/game_of_life/</loc>
+        <loc>//localhost:1313/synthesis/game_of_life/</loc>
         <lastmod>2024-10-08T20:08:38+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/posts/distraction/</loc>
+        <loc>//localhost:1313/posts/distraction/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/education/</loc>
+        <loc>//localhost:1313/tags/education/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/life/</loc>
+        <loc>//localhost:1313/tags/life/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/meaning/</loc>
+        <loc>//localhost:1313/tags/meaning/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/productivity/</loc>
+        <loc>//localhost:1313/tags/productivity/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/work/</loc>
+        <loc>//localhost:1313/tags/work/</loc>
         <lastmod>2024-09-24T22:02:19+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/examination/</loc>
+        <loc>//localhost:1313/tags/examination/</loc>
         <lastmod>2024-09-23T15:48:55+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/management/</loc>
+        <loc>//localhost:1313/tags/management/</loc>
         <lastmod>2024-09-23T15:48:55+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/posts/management/</loc>
+        <loc>//localhost:1313/posts/management/</loc>
         <lastmod>2024-09-23T15:48:55+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/tags/university/</loc>
+        <loc>//localhost:1313/tags/university/</loc>
         <lastmod>2024-09-23T15:48:55+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/posts/polymath/</loc>
+        <loc>//localhost:1313/posts/polymath/</loc>
         <lastmod>2024-09-21T17:41:43+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/about/</loc>
+        <loc>//localhost:1313/about/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/contact/</loc>
+        <loc>//localhost:1313/contact/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/credits/</loc>
+        <loc>//localhost:1313/credits/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>//localhost:5500/search/</loc>
+        <loc>//localhost:1313/search/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
