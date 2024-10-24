@@ -2,12 +2,9 @@
 title: "Leaving behind my thoughts for humanity."
 ---
 
-# The Realm of ARUSHIK 🌐
-==========================
+# Hey, good to see you here.
 
-**A Curious Mind at Work** 👋
-
-In this space, I, ARUSHIK, invite you to join me on a journey of exploration and discovery. As a generalist with a passion for engineering, technology, and the sciences, I'll be sharing my thoughts, theories, and observations on the world around us.
+In this space, I, Arushik, invite you to join me on a journey of exploration and discovery. As a generalist with a passion for engineering, technology, and the sciences, I'll be sharing my thoughts, theories, and observations on the world around us.
 
 **What to Expect:**
 
