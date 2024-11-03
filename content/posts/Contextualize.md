@@ -116,3 +116,5 @@ But, there's a point in a Scientist's, Engineer's, Doctor's life where they real
 Here's what you do, if you're prepraing for an exam, with the way the system is set up, it rewards rote-learning and regurgitation. So forget the exams, just memorize the patterns and move on.
 
 But if you're learning for yourself, then **teach yourself** to take the information given to you and **apply it in different contexts**, **examine the constraints** of the context and the information, figure out why it works here and not somewhere else.
+
+The ability to understand how to arrive at a solution given a novel problem, and apply that solution to different contexts whether it be in STEM or Non-STEM disciplines is the heart of contextualization.
