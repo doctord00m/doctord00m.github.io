@@ -14,6 +14,13 @@
   "language" : "en",
   "items": [
     {
+      "id": "be6081fa-7d33-5f50-2964-00c15ba3b197",
+      "url": "//localhost:1313/posts/contextualize/?utm_source=json_feed",
+      "title": "Contextualize",
+      "summary": "Context is king. The essence of learning anything new comes to context. Context is king. Contextualizing a subject is the way you can relate the subject or information presented to you as a method of learning it deeply.\nIf you wanted to convert any highly boring and theoretical information into that which is easier for you to understand and process, and retain it over a long period of time, then the idea is to put it into different contexts.",
+      "date_published": "2024-11-03T15:02:27Z"
+    },
+    {
       "id": "8d356290-74f2-57f5-b942-18f0d0bb5433",
       "url": "//localhost:1313/posts/relevance/?utm_source=json_feed",
       "title": "Relevance",

@@ -16,9 +16,45 @@
         <email>otspiritz04@gmail.com</email>
     </author>
     <rights>Copyright © 2019-2024 Serghei Iakovlev</rights>
-    <generator uri="https://gohugo.io" version="0.134.3">Hugo</generator>
-    <updated>2024-10-21T17:02:40+05:30</updated>
+    <generator uri="https://gohugo.io" version="0.135.0">Hugo</generator>
+    <updated>2024-11-03T15:02:27Z</updated>
     <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
+    <entry>
+        
+        <category term="posts" />
+        
+            
+            <category term="Academics" x="y" />
+            
+        
+            
+            <category term="Research" x="y" />
+            
+        
+            
+            <category term="Theories" x="y" />
+            
+        
+            
+            <category term="Learning" x="y" />
+            
+        
+        <link rel="alternate" type="type/html" href="//localhost:1313/posts/contextualize/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Contextualize]]></title>
+        
+        
+        
+            <link href="//localhost:1313/posts/relevance/?utm_source=atom_feed" rel="related" type="text/html" title="Relevance" />
+        
+        <published>2024-11-03T15:02:27Z</published>
+        <updated>2024-11-03T15:02:27Z</updated>
+        <id>urn:uuid:be6081fa-7d33-5f50-2964-00c15ba3b197</id>
+        
+        <summary type="html"><![CDATA[<h1 id="context-is-king">Context is king.</h1>
+<p>The essence of learning anything new comes to <em>context</em>. Context is king.
+Contextualizing a subject is the way you can relate the subject or information presented to you as a method of learning it deeply.</p>
+<p>If you wanted to convert any highly boring and theoretical information into that which is easier for you to understand and process, and retain it over a long period of time, then the idea is to put it into different contexts.</p>]]></summary>
+    </entry>
     <entry>
         
         <category term="posts" />
@@ -43,6 +79,8 @@
         <title type="html"><![CDATA[Relevance]]></title>
         
         
+        
+            <link href="//localhost:1313/posts/contextualize/?utm_source=atom_feed" rel="related" type="text/html" title="Contextualize" />
         
         <published>2024-10-21T17:02:40+05:30</published>
         <updated>2024-10-21T17:02:40+05:30</updated>

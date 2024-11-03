@@ -3,55 +3,62 @@
     
     <url>
         <loc>//localhost:1313/tags/academics/</loc>
-        <lastmod>2024-10-21T17:02:40+05:30</lastmod>
+        <lastmod>2024-11-03T15:02:27Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>//localhost:1313/posts/contextualize/</loc>
+        <lastmod>2024-11-03T15:02:27Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>//localhost:1313/tags/learning/</loc>
-        <lastmod>2024-10-21T17:02:40+05:30</lastmod>
+        <lastmod>2024-11-03T15:02:27Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>//localhost:1313/</loc>
-        <lastmod>2024-10-21T17:02:40+05:30</lastmod>
+        <lastmod>2024-11-03T15:02:27Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>//localhost:1313/posts/</loc>
-        <lastmod>2024-10-21T17:02:40+05:30</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>//localhost:1313/posts/relevance/</loc>
-        <lastmod>2024-10-21T17:02:40+05:30</lastmod>
+        <lastmod>2024-11-03T15:02:27Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>//localhost:1313/tags/research/</loc>
-        <lastmod>2024-10-21T17:02:40+05:30</lastmod>
+        <lastmod>2024-11-03T15:02:27Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>//localhost:1313/tags/</loc>
-        <lastmod>2024-10-21T17:02:40+05:30</lastmod>
+        <lastmod>2024-11-03T15:02:27Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>//localhost:1313/tags/theories/</loc>
+        <lastmod>2024-11-03T15:02:27Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>//localhost:1313/posts/relevance/</loc>
         <lastmod>2024-10-21T17:02:40+05:30</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
