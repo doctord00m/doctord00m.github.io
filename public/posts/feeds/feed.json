@@ -14,6 +14,13 @@
   "language" : "en",
   "items": [
     {
+      "id": "79590b4d-eacb-54d0-f9f1-bb039b088386",
+      "url": "//localhost:1313/posts/failure/?utm_source=json_feed",
+      "title": "Failure, Competence and Bullshit",
+      "summary": "In my limited experience on this planet, I have noticed that that people bullshit, a surprising amount. Now, I am going to go out on a limb and say that this is probably arises from a deep-rooted insecurity of their own competence and honestly, I don\u0026rsquo;t blame them, if you can\u0026rsquo;t find time to stop being a gobshite fool and fix yourself, you\u0026rsquo;d just find alternate outlets to bullshit your way through everything.",
+      "date_published": "2024-11-22T10:32:39+05:30"
+    },
+    {
       "id": "be6081fa-7d33-5f50-2964-00c15ba3b197",
       "url": "//localhost:1313/posts/contextualize/?utm_source=json_feed",
       "title": "Contextualize",

@@ -17,8 +17,23 @@
     </author>
     <rights>Copyright © 2019-2024 Serghei Iakovlev</rights>
     <generator uri="https://gohugo.io" version="0.134.3">Hugo</generator>
-    <updated>2024-11-03T15:02:27Z</updated>
+    <updated>2024-11-22T10:32:39+05:30</updated>
     <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
+    <entry>
+        
+        <category term="posts" />
+        
+        <link rel="alternate" type="type/html" href="//localhost:1313/posts/failure/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Failure]]></title>
+        
+        
+        
+        <published>2024-11-22T10:32:39+05:30</published>
+        <updated>2024-11-22T10:32:39+05:30</updated>
+        <id>urn:uuid:79590b4d-eacb-54d0-f9f1-bb039b088386</id>
+        
+        <summary type="html"><![CDATA[<p>hadf</p>]]></summary>
+    </entry>
     <entry>
         
         <category term="posts" />
