@@ -1,7 +1,6 @@
 ---
 title: 'Silence! Ego'
 date: 2024-11-24T22:23:45+05:30
-toc: true
 ---
 
 # Ego is the enemy
