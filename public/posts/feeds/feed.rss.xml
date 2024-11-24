@@ -16,11 +16,21 @@
         <generator>Hugo 0.134.3</generator>
         <language>en</language>
         <copyright>Copyright © 2019-2024 Serghei Iakovlev</copyright>
-        <lastBuildDate>Fri, 22 Nov 2024 10:32:39 +0530</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2024 22:23:45 +0530</lastBuildDate>
         <atom:link href="/posts/" rel="alternate" type="text/html" title="html" />
         <atom:link href="/posts/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="atom" />
         <atom:link href="/posts/feeds/feed.rss.xml" rel="self" type="text/xml" title="feed" />
         <atom:link href="/posts/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+        <item>
+            <title>Silence! Ego</title>
+            <link>//localhost:1313/posts/ego/?utm_source=rss_feed</link>
+            <pubDate>Sun, 24 Nov 2024 22:23:45 +0530</pubDate>
+            <author>otspiritz04@gmail.com (ARUSHIK)</author>
+            <category>posts</category>
+            <guid isPermaLink="false">f5c994f63440d98ba36ec4b98f698f8a</guid>
+            <description>&lt;h1 id=&#34;ego-is-the-enemy&#34;&gt;Ego is the enemy&lt;/h1&gt;&#xA;&lt;p&gt;Based on the title of Ryan Holiday on his musings of the Stoics. A title that is so befitting this particular musing of mine also.&lt;/p&gt;&#xA;&#xA;&lt;img src=&#34;/posts/image-13.png&#34; alt=&#34;Stoic&#34; width=&#34;50%&#34; height=&#34;50%&#34; class=&#34;center&#34;&gt;&#xA;&#xA;&#xA;&lt;p&gt;I had to pause and write this (I was studying and immediately this popped into my head) because, whenever I need to retroactively reflect upon and recollect my trinkets of ideas, I can simply look at this repository.&lt;/p&gt;&#xA;&lt;p&gt;Anyways, here&amp;rsquo;s the main idea.&lt;/p&gt;</description>
+        </item>
+    
         <item>
             <title>Failure, Competence and Bullshit</title>
             <link>//localhost:1313/posts/failure/?utm_source=rss_feed</link>

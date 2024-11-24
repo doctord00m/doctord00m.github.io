@@ -14,6 +14,13 @@
   "language" : "en",
   "items": [
     {
+      "id": "7a6a12d9-8009-59fb-59cd-219f5f47f684",
+      "url": "//localhost:1313/posts/ego/?utm_source=json_feed",
+      "title": "Silence! Ego",
+      "summary": "Ego is the enemy Based on the title of Ryan Holiday on his musings of the Stoics. A title that is so befitting this particular musing of mine also.\nI had to pause and write this (I was studying and immediately this popped into my head) because, whenever I need to retroactively reflect upon and recollect my trinkets of ideas, I can simply look at this repository.\nAnyways, here\u0026rsquo;s the main idea.",
+      "date_published": "2024-11-24T22:23:45+05:30"
+    },
+    {
       "id": "79590b4d-eacb-54d0-f9f1-bb039b088386",
       "url": "//localhost:1313/posts/failure/?utm_source=json_feed",
       "title": "Failure, Competence and Bullshit",
