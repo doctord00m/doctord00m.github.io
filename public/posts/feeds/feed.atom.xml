@@ -14,8 +14,50 @@
     </author>
     <rights>Copyright © 2019-2024 Serghei Iakovlev</rights>
     <generator uri="https://gohugo.io" version="0.134.3">Hugo</generator>
-    <updated>2024-11-24T22:23:45+05:30</updated>
+    <updated>2024-12-04T22:40:06+05:30</updated>
     <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
+    <entry>
+        
+        <category term="posts" />
+        
+            
+            <category term="Academics" x="y" />
+            
+        
+            
+            <category term="Research" x="y" />
+            
+        
+            
+            <category term="Theories" x="y" />
+            
+        
+            
+            <category term="Learning" x="y" />
+            
+        
+        <link rel="alternate" type="type/html" href="//localhost:1313/posts/failure_1/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[To learn, is to have failed.]]></title>
+        
+        
+        
+            <link href="//localhost:1313/posts/contextualize/?utm_source=atom_feed" rel="related" type="text/html" title="Contextualize" />
+        
+            <link href="//localhost:1313/posts/relevance/?utm_source=atom_feed" rel="related" type="text/html" title="Relevance" />
+        
+        <published>2024-12-04T22:40:06+05:30</published>
+        <updated>2024-12-04T22:40:06+05:30</updated>
+        <id>urn:uuid:374ce8e6-c25a-5f59-f94c-b10de0bf1480</id>
+        
+        <summary type="html"><![CDATA[<img src="/posts/science.jpg" alt="Science" width="50%" height="50%" class="center">
+
+
+<p>I think one very important thing that&rsquo;s not talked about frequently is that the best way to learn is to have failed, multiple times.</p>
+<p><img alt="fail" src="https://pbs.twimg.com/media/Ede0UIyWoAIyKmH.jpg"></p>
+<p>The above image is one of the coolest depictions of the concept I am talking about but basically the gist is:</p>
+<blockquote>
+<p>In order to learn anything, you must first experiment and try to answer the question for yourself, and you will fail, with which you can learn, re-adjust and try again, and again and again. Until you get it right.</p>]]></summary>
+    </entry>
     <entry>
         
         <category term="posts" />
@@ -78,6 +120,8 @@
         
         
         
+            <link href="//localhost:1313/posts/failure_1/?utm_source=atom_feed" rel="related" type="text/html" title="To learn, is to have failed." />
+        
             <link href="//localhost:1313/posts/relevance/?utm_source=atom_feed" rel="related" type="text/html" title="Relevance" />
         
         <published>2024-11-03T15:02:27Z</published>
@@ -113,6 +157,8 @@ Contextualizing a subject is the way you can relate the subject or information p
         <title type="html"><![CDATA[Relevance]]></title>
         
         
+        
+            <link href="//localhost:1313/posts/failure_1/?utm_source=atom_feed" rel="related" type="text/html" title="To learn, is to have failed." />
         
             <link href="//localhost:1313/posts/contextualize/?utm_source=atom_feed" rel="related" type="text/html" title="Contextualize" />
         

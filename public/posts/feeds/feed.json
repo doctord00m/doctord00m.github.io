@@ -14,6 +14,13 @@
   "language" : "en",
   "items": [
     {
+      "id": "374ce8e6-c25a-5f59-f94c-b10de0bf1480",
+      "url": "//localhost:1313/posts/failure_1/?utm_source=json_feed",
+      "title": "To learn, is to have failed.",
+      "summary": " I think one very important thing that\u0026rsquo;s not talked about frequently is that the best way to learn is to have failed, multiple times.\nThe above image is one of the coolest depictions of the concept I am talking about but basically the gist is:\nIn order to learn anything, you must first experiment and try to answer the question for yourself, and you will fail, with which you can learn, re-adjust and try again, and again and again. Until you get it right.",
+      "date_published": "2024-12-04T22:40:06+05:30"
+    },
+    {
       "id": "7a6a12d9-8009-59fb-59cd-219f5f47f684",
       "url": "//localhost:1313/posts/ego/?utm_source=json_feed",
       "title": "Silence! Ego",
