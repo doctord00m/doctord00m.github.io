@@ -17,8 +17,51 @@
     </author>
     <rights>Copyright © 2019-2024 Serghei Iakovlev</rights>
     <generator uri="https://gohugo.io" version="0.134.3">Hugo</generator>
-    <updated>2024-12-04T22:40:06+05:30</updated>
+    <updated>2024-12-16T22:38:24-08:00</updated>
     <id>urn:uuid:f5423b9f-eadf-5baa-e92a-eaa3683f5fb9</id>
+    <entry>
+        
+        <category term="posts" />
+        
+            
+            <category term="Academics" x="y" />
+            
+        
+            
+            <category term="Research" x="y" />
+            
+        
+            
+            <category term="Theories" x="y" />
+            
+        
+            
+            <category term="Learning" x="y" />
+            
+        
+        <link rel="alternate" type="type/html" href="//localhost:1313/posts/fail-and-fail/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Burden of Success, Fear of Failure]]></title>
+        
+        
+        
+            <link href="//localhost:1313/posts/failure_1/?utm_source=atom_feed" rel="related" type="text/html" title="To learn, is to have failed." />
+        
+            <link href="//localhost:1313/posts/contextualize/?utm_source=atom_feed" rel="related" type="text/html" title="Contextualize" />
+        
+            <link href="//localhost:1313/posts/relevance/?utm_source=atom_feed" rel="related" type="text/html" title="Relevance" />
+        
+        <published>2024-12-16T22:38:24-08:00</published>
+        <updated>2024-12-16T22:38:24-08:00</updated>
+        <id>urn:uuid:28db6126-7739-59a7-d93a-0270ce5f7d9f</id>
+        
+        <summary type="html"><![CDATA[<p>This is a continuation of my series of posts on Failure. I believe I haven&rsquo;t covered an interesting aspect of failure which is the <em>psychological</em> aspect of failing. So here&rsquo;s my personal experience with the psychological, not the cognitive manifestations.</p>
+<p>My typical learning process, before I started experimenting with myself could be broken down like so:</p>
+
+<img src="/posts/image-16.png" alt="learn-cycle" width="75%" height="75%" class="center">
+
+
+<p>So the problem with this is that, well, I learn <strong>fuck all</strong> doing this. And the reasoning I had is kinda surprising, and I am sharing hoping you all could relate to it.</p>]]></summary>
+    </entry>
     <entry>
         
         <category term="posts" />
@@ -43,6 +86,8 @@
         <title type="html"><![CDATA[To learn, is to have failed.]]></title>
         
         
+        
+            <link href="//localhost:1313/posts/fail-and-fail/?utm_source=atom_feed" rel="related" type="text/html" title="Burden of Success, Fear of Failure" />
         
             <link href="//localhost:1313/posts/contextualize/?utm_source=atom_feed" rel="related" type="text/html" title="Contextualize" />
         
@@ -123,6 +168,8 @@
         
         
         
+            <link href="//localhost:1313/posts/fail-and-fail/?utm_source=atom_feed" rel="related" type="text/html" title="Burden of Success, Fear of Failure" />
+        
             <link href="//localhost:1313/posts/failure_1/?utm_source=atom_feed" rel="related" type="text/html" title="To learn, is to have failed." />
         
             <link href="//localhost:1313/posts/relevance/?utm_source=atom_feed" rel="related" type="text/html" title="Relevance" />
@@ -160,6 +207,8 @@ Contextualizing a subject is the way you can relate the subject or information p
         <title type="html"><![CDATA[Relevance]]></title>
         
         
+        
+            <link href="//localhost:1313/posts/fail-and-fail/?utm_source=atom_feed" rel="related" type="text/html" title="Burden of Success, Fear of Failure" />
         
             <link href="//localhost:1313/posts/failure_1/?utm_source=atom_feed" rel="related" type="text/html" title="To learn, is to have failed." />
         

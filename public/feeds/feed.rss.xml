@@ -16,7 +16,7 @@
         <generator>Hugo 0.134.3</generator>
         <language>en</language>
         <copyright>Copyright © 2019-2024 Serghei Iakovlev</copyright>
-        <lastBuildDate>Wed, 04 Dec 2024 22:40:06 +0530</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 22:38:24 -0800</lastBuildDate>
         <atom:link href="/" rel="alternate" type="text/html" title="html" />
         <atom:link href="/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="atom" />
         <atom:link href="/feeds/feed.rss.xml" rel="self" type="text/xml" title="feed" />
@@ -24,6 +24,20 @@
         <atom:link href="/index.json" rel="alternate" type="application/json" title="json" />
         <atom:link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="manifest" />
         <atom:link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
+        <item>
+            <title>Burden of Success, Fear of Failure</title>
+            <link>//localhost:1313/posts/fail-and-fail/?utm_source=rss_feed</link>
+            <pubDate>Mon, 16 Dec 2024 22:38:24 -0800</pubDate>
+            <author>otspiritz04@gmail.com (ARUSHIK)</author>
+            <category>posts</category>
+            <category>Academics</category>
+            <category>Research</category>
+            <category>Theories</category>
+            <category>Learning</category>
+            <guid isPermaLink="false">ee8303670e76d09e0b5c7d48195550a2</guid>
+            <description>&lt;p&gt;This is a continuation of my series of posts on Failure. I believe I haven&amp;rsquo;t covered an interesting aspect of failure which is the &lt;em&gt;psychological&lt;/em&gt; aspect of failing. So here&amp;rsquo;s my personal experience with the psychological, not the cognitive manifestations.&lt;/p&gt;&#xA;&lt;p&gt;My typical learning process, before I started experimenting with myself could be broken down like so:&lt;/p&gt;&#xA;&#xA;&lt;img src=&#34;/posts/image-16.png&#34; alt=&#34;learn-cycle&#34; width=&#34;75%&#34; height=&#34;75%&#34; class=&#34;center&#34;&gt;&#xA;&#xA;&#xA;&lt;p&gt;So the problem with this is that, well, I learn &lt;strong&gt;fuck all&lt;/strong&gt; doing this. And the reasoning I had is kinda surprising, and I am sharing hoping you all could relate to it.&lt;/p&gt;</description>
+        </item>
+    
         <item>
             <title>To learn, is to have failed.</title>
             <link>//localhost:1313/posts/failure_1/?utm_source=rss_feed</link>
