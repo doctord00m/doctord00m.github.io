@@ -13,7 +13,6 @@ toc: true
 ## Best spots to eat
 
 - The big dipper by Escalon (or) [aldos](https://www.yelp.com/biz/aldos-italian-ice-and-gelato-tracy) for Gelato (Aldos is really well-rated)
-https://s3-media0.fl.yelpcdn.com/bphoto/VZC4N6tOpON1Zo47nBW33w/o.jpg
 - [Bistro 135](https://www.yelp.com/biz/bistro-135-tracy) for just normal restaurant
 - [Ttobongee](https://www.yelp.com/biz/ttobongee-chicken-tracy) for Korean Fried Chicken
 - [Popo’s on 6th](https://www.yelp.com/biz/popos-on-6th-tracy) for Authentic Hawaiian food
