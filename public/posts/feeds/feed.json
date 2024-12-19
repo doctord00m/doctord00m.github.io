@@ -14,6 +14,13 @@
   "language" : "en",
   "items": [
     {
+      "id": "6df7b0c3-af64-5fb8-09d6-9788c3d16511",
+      "url": "//localhost:1313/posts/cali_trip/?utm_source=json_feed",
+      "title": "California Trip",
+      "summary": "Stuff to check out near Tracy, CA Tracy, CA\nBreakfast spots - Click Here Best spots to eat The big dipper by Escalon (or) aldos for Gelato (Aldos is really well-rated) Bistro 135 for just normal restaurant Ttobongee for Korean Fried Chicken Popo’s on 6th for Authentic Hawaiian food Johnny’s Diner \u0026amp; Creamery for simple, good American food, apparently rated Los Potros for really good Mexican place ",
+      "date_published": "2024-12-18T19:30:56-08:00"
+    },
+    {
       "id": "28db6126-7739-59a7-d93a-0270ce5f7d9f",
       "url": "//localhost:1313/posts/fail-and-fail/?utm_source=json_feed",
       "title": "Burden of Success, Fear of Failure",

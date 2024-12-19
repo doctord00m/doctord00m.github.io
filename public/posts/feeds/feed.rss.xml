@@ -16,11 +16,21 @@
         <generator>Hugo 0.134.3</generator>
         <language>en</language>
         <copyright>Copyright © 2019-2024 Serghei Iakovlev</copyright>
-        <lastBuildDate>Mon, 16 Dec 2024 22:38:24 -0800</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 19:30:56 -0800</lastBuildDate>
         <atom:link href="/posts/" rel="alternate" type="text/html" title="html" />
         <atom:link href="/posts/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="atom" />
         <atom:link href="/posts/feeds/feed.rss.xml" rel="self" type="text/xml" title="feed" />
         <atom:link href="/posts/feeds/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+        <item>
+            <title>California Trip</title>
+            <link>//localhost:1313/posts/cali_trip/?utm_source=rss_feed</link>
+            <pubDate>Wed, 18 Dec 2024 19:30:56 -0800</pubDate>
+            <author>otspiritz04@gmail.com (ARUSHIK)</author>
+            <category>posts</category>
+            <guid isPermaLink="false">3084bee1db372801714b40e58da92c60</guid>
+            <description>&lt;h1 id=&#34;stuff-to-check-out-near-tracy-ca&#34;&gt;Stuff to check out near Tracy, CA&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Tracy, CA&lt;/p&gt;&#xA;&lt;h2 id=&#34;breakfast-spots---click-herehttpswwwredditcomrtracycaliforniacomments1dksdihwhats_your_favorite_spot_to_eat_breakfast_in&#34;&gt;Breakfast spots - &lt;a href=&#34;https://www.reddit.com/r/TracyCalifornia/comments/1dksdih/whats_your_favorite_spot_to_eat_breakfast_in/&#34;&gt;Click Here&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;best-spots-to-eat&#34;&gt;Best spots to eat&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The big dipper by Escalon (or) &lt;a href=&#34;https://www.yelp.com/biz/aldos-italian-ice-and-gelato-tracy&#34;&gt;aldos&lt;/a&gt; for Gelato (Aldos is really well-rated)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.yelp.com/biz/bistro-135-tracy&#34;&gt;Bistro 135&lt;/a&gt; for just normal restaurant&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.yelp.com/biz/ttobongee-chicken-tracy&#34;&gt;Ttobongee&lt;/a&gt; for Korean Fried Chicken&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.yelp.com/biz/popos-on-6th-tracy&#34;&gt;Popo’s on 6th&lt;/a&gt; for Authentic Hawaiian food&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.yelp.com/biz/johnnys-diner-and-creamery-tracy-4&#34;&gt;Johnny’s Diner &amp;amp; Creamery&lt;/a&gt; for simple, good American food, apparently rated&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.yelp.com/biz/los-potros-tracy&#34;&gt;Los Potros&lt;/a&gt; for really good Mexican place&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
+        </item>
+    
         <item>
             <title>Burden of Success, Fear of Failure</title>
             <link>//localhost:1313/posts/fail-and-fail/?utm_source=rss_feed</link>
