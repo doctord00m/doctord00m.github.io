@@ -15,6 +15,6 @@ In this space, I, Arushik, invite you to join me on a journey of exploration and
 
 **Join the Conversation**
 
-[![Spiderman Comic](https://i.pinimg.com/736x/04/13/eb/0413eb3e908a288008107a347cde0bf0--spiderman-comic-amazing-spiderman.jpg)](https://i.pinimg.com/736x/04/13/eb/0413eb3e908a288008107a347cde0bf0--spiderman-comic-amazing-spiderman.jpg)
+![Doctor Doom](https://i.pinimg.com/736x/f9/4b/50/f94b503384dd21045ed032890f7f8850.jpg)
 
 I'm glad you're here. Let's explore the possibilities together.
