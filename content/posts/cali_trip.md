@@ -7,11 +7,13 @@ toc: true
 
 # Stuff to check out near Tracy, CA
 
-## Breakfast spots - [Click Here](https://www.reddit.com/r/TracyCalifornia/comments/1dksdih/whats_your_favorite_spot_to_eat_breakfast_in/)
+## Breakfast spots
+[Click Here](https://www.reddit.com/r/TracyCalifornia/comments/1dksdih/whats_your_favorite_spot_to_eat_breakfast_in/)
 
 ## Best spots to eat
 
 - The big dipper by Escalon (or) [aldos](https://www.yelp.com/biz/aldos-italian-ice-and-gelato-tracy) for Gelato (Aldos is really well-rated)
+https://s3-media0.fl.yelpcdn.com/bphoto/VZC4N6tOpON1Zo47nBW33w/o.jpg
 - [Bistro 135](https://www.yelp.com/biz/bistro-135-tracy) for just normal restaurant
 - [Ttobongee](https://www.yelp.com/biz/ttobongee-chicken-tracy) for Korean Fried Chicken
 - [Popo’s on 6th](https://www.yelp.com/biz/popos-on-6th-tracy) for Authentic Hawaiian food
